@@ -51,14 +51,6 @@ Detailed preprocessing steps and licensing information are available in `License
 
 The model with the lowest RMSE was selected for final prediction and visualization.
 
----
-
-## 📈 Results
-
-<p align="center">
-  <img src="Capture.JPG" width="750">
-</p>
-
 - Random Forest achieved the best predictive performance  
 - Predictions closely follow real consumption trends  
 - Seasonal and weekly patterns are effectively captured  
